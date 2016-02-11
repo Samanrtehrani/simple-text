@@ -1,0 +1,2 @@
+# simple-text
+Simple Text is a software written in C++ with which users will interact with each other through sending SMS messages to a number ( SMS Gateway ) with their desired content. Each message will promptly appear on a big screen ( visible to all the users ) as well as an image retrieved from an instant image search in public internet. Thus, users will anonymously interact and open a dialogue with each other. This project was initially developed for Jonah Brucker-Cohen, an american artist based in New York City, and was aimed for an art installation.
